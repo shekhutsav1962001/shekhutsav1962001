@@ -1,4 +1,7 @@
-### Hi there 👋
+﻿### Hi there 👋
+
+# Achievements
+<img src="https://github-readme-stats-abserari.vercel.app/api?username=shekhutsav1962001&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="shekhutsav1962001" /> </p><br/>
 
 <!--
 **shekhutsav1962001/shekhutsav1962001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
