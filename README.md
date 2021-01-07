@@ -1,12 +1,17 @@
 ﻿### Hi there 👋
 
 # Achievements
-<img src="https://github-readme-stats-abserari.vercel.app/api?username=shekhutsav1962001&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="shekhutsav1962001" /> </p><br/>
+<img src="https://github-readme-stats-abserari.vercel.app/api?username=shekhutsav1962001&show_icons=true &count_private=true&include_all_commits=true" alt="shekhutsav1962001" /> </p><br/>
 
 
 # Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/shekhutsav1962001/count.svg)
 <hr />
+
+# Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shekhutsav1962001&layout=compact &count_private=true)](https://github.com/shekhutsav1962001)
+
+<br />
 
 
 <!--
