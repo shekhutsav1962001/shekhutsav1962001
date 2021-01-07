@@ -1,7 +1,7 @@
 ﻿### Hey there 👋
 
 # Achievements
-<img src="https://github-readme-stats-abserari.vercel.app/api?username=shekhutsav1962001&show_icons=true &count_private=true&include_all_commits=true" alt="shekhutsav1962001" /> </p><br/>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=shekhutsav1962001)
 
 
 # Profile Visits
