@@ -8,10 +8,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/shekhutsav1962001/count.svg)
 <hr />
 
-# Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shekhutsav1962001&layout=compact &count_private=true)](https://github.com/shekhutsav1962001)
-
-<br />
 
 
 <!--
