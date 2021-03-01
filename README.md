@@ -6,7 +6,7 @@
 <hr/>
 
 
-# My Github Activity :
+**My GitHub Activity:**
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=shekhutsav1962001)
 
 
