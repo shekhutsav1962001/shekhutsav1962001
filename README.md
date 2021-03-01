@@ -18,7 +18,7 @@
 
 </a>
 <hr/>
-### Let's Get in touch
+<h3>Let's Get in touch</h3>
 <p >
   <a href="mailto:shekhutsav1962001@gmail.com">Email</a> •
   <a href="https://shekhutsav1962001.github.io/portfolio/index.html">Website</a> •
