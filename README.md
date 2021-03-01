@@ -12,7 +12,7 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=shekhutsav1962001)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shekhutsav1962001)](https://github.com/shekhutsav1962001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shekhutsav1962001&layout=compact)](https://github.com/shekhutsav1962001)
 
 
 
