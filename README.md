@@ -20,10 +20,10 @@
 <hr/>
 <h3>Let's Get in touch</h3>
 <p >
-  <a href="mailto:shekhutsav1962001@gmail.com">Email</a> •
-  <a href="https://shekhutsav1962001.github.io/portfolio/index.html">Website</a> •
-  <a href="https://github.com/shekhutsav1962001/">GitHub</a> •
-  <a href="https://www.linkedin.com/in/utsav-shekh-557306203 ">Linkedin</a> •
-  <a href="https://twitter.com/utsav1519">Twitter</a>
+  <a href="mailto:shekhutsav1962001@gmail.com" target="_blank">Email</a> •
+  <a href=https://shekhutsav1962001.github.io/portfolio/index.html target="_blank">Website</a> •
+  <a href=https://github.com/shekhutsav1962001/ target="_blank">GitHub</a> •
+  <a href=https://www.linkedin.com/in/utsav-shekh-557306203  target="_blank">Linkedin</a> •
+  <a href=https://twitter.com/utsav1519 target="_blank">Twitter</a>
 </p>
 
