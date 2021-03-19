@@ -10,6 +10,7 @@ To showcase my UI development skills, I have developed my portfolio website <a h
 It would be my pleasure if you spare some time to visit my website :)
 </h3>
 
+<hr/>
 
 **My GitHub Activity:** <br/>
 
