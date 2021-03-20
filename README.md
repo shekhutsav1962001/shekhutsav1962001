@@ -5,10 +5,10 @@
                         Animation attracts me a lot.<h3></p>
 <hr/>
 
-<h3>
+<p>
 To showcase my UI development skills, I have developed my portfolio website <a href="https://shekhutsav1962001.github.io/portfolio/index.html">“utsavshekh.io”</a>. 
 It would be my pleasure if you spare some time to visit my website :)
-</h3>
+</p>
 
 <hr/>
 
