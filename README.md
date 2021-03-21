@@ -48,8 +48,10 @@ It would be my pleasure if you spare some time to visit my website :)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shekhutsav1962001&layout=compact)](https://github.com/shekhutsav1962001)
 
 
-<img  height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=shekhutsav1962001&show_icons=true"  />
 
+</a>
+<a  href="https://github.com/shekhutsav1962001">
+<img  height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=shekhutsav1962001&show_icons=true"  />
   
 <img  height="180em" width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhutsav1962001&layout=compact"  />
 
