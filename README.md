@@ -3,7 +3,7 @@
                         I found my interest in Web development and I'm doing my best to learn new things regularly.
                         Animation attracts me a lot.<h3></p>
 
-<hr/>
+
 <p align="center">
 <h4>
 To showcase my UI development skills, I have developed my portfolio website <a href="https://shekhutsav1962001.github.io/portfolio/index.html">“utsavshekh.io”</a>. 
