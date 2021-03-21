@@ -41,15 +41,13 @@ It would be my pleasure if you spare some time to visit my website :)
 
 **My GitHub Activity:** <br/>
 
-<a  href="https://github.com/shekhutsav1962001">
+<!-- <a  href="https://github.com/shekhutsav1962001"> -->
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=shekhutsav1962001)
+<!-- /![YOUR github stats](https://github-readme-stats.vercel.app/api?username=shekhutsav1962001) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shekhutsav1962001&layout=compact)](https://github.com/shekhutsav1962001)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shekhutsav1962001&layout=compact)](https://github.com/shekhutsav1962001) -->
 
-
-
-</a>
+<!-- </a> -->
 <a  href="https://github.com/shekhutsav1962001">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=shekhutsav1962001&show_icons=true"  />
   
