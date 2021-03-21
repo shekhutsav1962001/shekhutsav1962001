@@ -1,5 +1,5 @@
 ﻿<h2  align="center"> Hey there👋🏻 , I am Utsav Shekh    </h2>  
-<p  align="center"><h3 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am pursuing Computer Engineering at Dharmsinh Desai University.
+<p  align="center"><h3 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am pursuing Computer Engineering at Dharmsinh Desai University.
                         I found my interest in Web development and I'm doing my best to learn new things regularly.
                         Animation attracts me a lot.<h3></p>
 
