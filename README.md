@@ -3,7 +3,7 @@
 <p  align="center"><h3>I am pursuing Computer Engineering at Dharmsinh Desai University.
                         I found my interest in Web development and I'm doing my best to learn new things regularly.
                         Animation attracts me a lot.<h3></p>
-<hr/>
+
 
 <p align="center">
 <h4>
@@ -12,7 +12,32 @@ It would be my pleasure if you spare some time to visit my website :)
 </h4>
 </p>
 
-<hr/>
+## Skills
+```
+
+  - HTML
+  - CSS
+  - JavaScript 
+  - Typescript
+
+  - Node.js 
+  - Express.js
+  - Angular
+  - Django
+  - .NET Core
+  - ASP.NET
+
+  - C
+  - C++
+  - C#
+  - Python
+  - PHP
+
+  - MongoDB
+  - MySQL
+
+```
+<br/>
 
 **My GitHub Activity:** <br/>
 
