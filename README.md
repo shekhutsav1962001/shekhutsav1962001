@@ -23,6 +23,8 @@ It would be my pleasure if you spare some time to visit my website :)
   - Node.js 
   - Express.js
   - Angular
+  - React
+  - Redux
   - Django
   - .NET Core
   - ASP.NET
@@ -35,6 +37,7 @@ It would be my pleasure if you spare some time to visit my website :)
 
   - MongoDB
   - MySQL
+  - Firebase
 
 ```
 <br/>
