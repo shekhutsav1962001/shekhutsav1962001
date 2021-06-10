@@ -49,6 +49,7 @@
 </details>
 
 <h3>Let's Get in touch</h3>
+<p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utsavshekh/)
 
@@ -57,6 +58,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/utsav1519)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_._utsav)
+
+</p>
 
 <!-- <h4><p >
   <a href="mailto:shekhutsav1962001@gmail.com" >Email</a> •
