@@ -51,21 +51,7 @@
 <h3>Let's Get in touch</h3>
 <p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utsavshekh/)
-
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shekhutsav1962001.github.io/portfolio)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/utsav1519)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_._utsav)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utsavshekh/)[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shekhutsav1962001.github.io/portfolio)[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/utsav1519)[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_._utsav)
 
 </p>
 
-<!-- <h4><p >
-  <a href="mailto:shekhutsav1962001@gmail.com" >Email</a> •
-  <a href="https://shekhutsav1962001.github.io/portfolio/index.html">Website</a> •
-  <a href="https://github.com/shekhutsav1962001/">GitHub</a> •
-  <a href="https://www.linkedin.com/in/utsavshekh/">Linkedin</a> •
-  <a href="https://twitter.com/utsav1519">Twitter</a>
-</p>
-</h4> -->
