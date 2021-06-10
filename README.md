@@ -1,4 +1,4 @@
-﻿<h2  align="center"> Hey there👋🏻 , I am Utsav Shekh    </h2><br/><br/>
+﻿<h2  align="center"> Hey there👋🏻 , I am Utsav Shekh    </h2><br/>
 
 
 
