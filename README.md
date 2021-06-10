@@ -1,14 +1,9 @@
 ﻿<h2  align="center"> Hey there👋🏻 , I am Utsav Shekh    </h2><br/>
 
-
-
-
-
 - 🎓 I am pursuing Computer Engineering at Dharmsinh Desai University
 - 👨‍💻 I found my interest in Web development and I'm doing my best to learn new things regularly
 - ⚡ Animation attracts me a lot
 - 🌐 To showcase my UI development skills, I have developed my portfolio website **<a href="https://shekhutsav1962001.github.io/portfolio/index.html">“utsavshekh.io”</a>**. It would be my pleasure if you spare some time to visit my website :)
-
 
 ## Skills
 
@@ -42,8 +37,6 @@
 
 <br/>
 
-
-
 <details>	
   <summary><b>⚡ Github Activity</b></summary>
   <br />
@@ -55,10 +48,9 @@
 </a>
 </details>
 
-
 <h3>Let's Get in touch</h3>
 
-[![Linkedin Badge]("https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white")](https://www.linkedin.com/in/utsavshekh/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utsavshekh/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shekhutsav1962001.github.io/portfolio)
 
