@@ -42,7 +42,7 @@
 <!-- **My GitHub Activity:** <br/> -->
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ Github Activity</b></summary>
   <br />
 <a  href="https://github.com/shekhutsav1962001">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=shekhutsav1962001&show_icons=true"  />
