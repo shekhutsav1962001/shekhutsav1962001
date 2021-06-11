@@ -60,6 +60,20 @@
 </details>
 
 <!-- ------------------------------------------------------------------------------------------------------------ -->
+<br/>
+
+<details>	
+  <summary><b>🎧 Spotify Activity</b></summary>
+
+  **`Utsav is Now Listening To :- `**
+
+
+  >![](https://spotify-currently-listening.herokuapp.com/getimage) 
+
+
+</details>
+
+<!-- ------------------------------------------------------------------------------------------------------------ -->
 <h4>Let's Get in touch</h4>
 <p>
 
