@@ -56,8 +56,8 @@
 
 <h4>🌐 Programming Languages :</h4>
 
-| <img src="/images/1.png" alt="c logo" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css logo" width="24"> | 
-|---|---|
+| <img src="/images/1.png" alt="c logo" width="24"> | <img src="/images/2.png" alt="c++ logo" width="24"> |  <img src="/images/3.png" alt="c# logo" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24"> | 
+|---|---|---|---|
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <br/>
 
