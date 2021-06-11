@@ -65,13 +65,10 @@
 <details>	
   <summary><b>🎧 Spotify Activity</b></summary>
   
-  <br/><br/>
+  <br/>
 
 
-  **`Utsav is Now Listening To :- `**
-
-
-  >![](https://spotify-currently-listening.herokuapp.com/getimage) 
+  **`Utsav is Now Listening To :- `**  >![](https://spotify-currently-listening.herokuapp.com/getimage) 
 
 
 </details>
