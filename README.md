@@ -54,9 +54,9 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
 
-<h4>Programming Languages 🌐 :</h4>
+<h4>🌐 Programming Languages :</h4>
 
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html logo" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css logo" width="24"> | 
+| <img src="/images/1.png" alt="c logo" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css logo" width="24"> | 
 |---|---|
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <br/>
