@@ -66,7 +66,7 @@
 
 <h4>🌐 Programming Languages :</h4>
 
-| <img src="/images/1.png" alt="c logo" width="24"> | <img src="/images/2.png" alt="c++ logo" width="24"> |  <img src="/images/3.png" alt="c# logo" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24"> | 
+| <img src="https://user-images.githubusercontent.com/62152963/124392232-09e3b580-dd12-11eb-9a23-7bc48e9d629c.png" alt="c logo" width="24"> | <img src="https://user-images.githubusercontent.com/62152963/124392271-30a1ec00-dd12-11eb-812a-ae7b952e9a03.png" alt="c++ logo" width="24"> |  <img src="https://user-images.githubusercontent.com/62152963/124392292-4dd6ba80-dd12-11eb-9ae4-bb8361b708a2.png" alt="c# logo" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24"> | 
 |---|---|---|---|
 
 <h4>⚙️ Database :</h4>
@@ -110,4 +110,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white)](mailto:shekhutsav1962001@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utsavshekh/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shekhutsav1962001.github.io/portfolio) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/utsav1519) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_._utsav)
 
 </p>
+
+
+
+
+
 
