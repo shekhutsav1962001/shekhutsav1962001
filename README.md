@@ -98,7 +98,7 @@
 
   **`Utsav is Now Listening To :- `**  
   
-  >![](https://spotify-currently-listening.herokuapp.com/getimage) 
+  >![Please refresh the page](https://spotify-currently-listening.herokuapp.com/getimage) 
 
 
 </details>
