@@ -18,7 +18,7 @@
 ```
 
   - HTML
-  - CS
+  - CSSSSSS
   - JavaScript
   - Typescript
 
