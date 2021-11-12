@@ -82,7 +82,9 @@
 <a  href="https://github.com/shekhutsav1962001">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=shekhutsav1962001&show_icons=true"  />
   
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhutsav1962001&layout=compact"  />
+<!-- <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhutsav1962001&layout=compact"  /> -->
+
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhutsav1962001&layout=compact&hide=Jupyter%20Notebook&langs_count=6"  />
 
 </a>
 </details>
