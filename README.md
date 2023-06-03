@@ -92,7 +92,7 @@
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <br/>
 
-<details>	
+<!-- <details>	
   <summary><b>🎧 Spotify Activity</b></summary>
   
   <br/>
@@ -103,8 +103,7 @@
   >![Please refresh the page](https://spotify-currently-listening.herokuapp.com/getimage) 
 
 
-</details>
-
+</details> -->
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <h4>Let's Get in touch</h4>
 <p>
